@@ -1,2 +1,2 @@
 # Customer_Prediction
-ML project for Credit Card prediction
+This is a Prediction model which predicts credit card customers using multiple ml algorithms.
